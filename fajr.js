@@ -1,4 +1,4 @@
-
+// you must have sunrise time to use it, here, I got it from here http://praytimes.org/
 function fajr(h, m)
 {
 h = salat().sunrise.split(":")[0];
